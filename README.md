@@ -37,3 +37,6 @@ docker stop container     stops a runnning container
 id container name 
 docker system prune -f   To remove all the stopped containers (docker do not touch the runnning containers)
 docerk system prune -a   To remove all the stoppet containers (docker do not touch the running continers) + unused images
+
+Git course
+https://github.com/vinsguru/selenium-docker/tree/master
