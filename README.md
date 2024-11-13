@@ -40,3 +40,7 @@ docerk system prune -a   To remove all the stoppet containers (docker do not tou
 
 Git course
 https://github.com/vinsguru/selenium-docker/tree/master
+
+selenium 
+https://github.com/vinsguru/selenium-docker/blob/master/03-automation-framework/dependencies.md
+
